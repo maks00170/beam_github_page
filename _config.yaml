@@ -3,6 +3,3 @@ markdown: GFM
 plugins:
 - jekyll-remote-theme
 gem "github-pages", group: :jekyll_plugins
-links:
-  # paper: 
-  code: 
